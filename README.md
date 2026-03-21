@@ -1,6 +1,6 @@
 # Biblioteca_UDB_DAS
 
-## Capturas
+## Instrucciones
 
 Clonar el repositorio en la carpeta de preferencia. 
 
